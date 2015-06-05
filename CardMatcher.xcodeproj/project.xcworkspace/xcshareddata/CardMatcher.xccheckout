@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E72C1DB1-9303-4BDE-979B-4A2EAB2389FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CardMatcher</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D20A2657C08B53A23360949D47614F8974CD8F4</key>
+		<string>https://github.com/rosDimitrov/Assignment-1---Cards.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CardMatcher/CardMatcher.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D20A2657C08B53A23360949D47614F8974CD8F4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rosDimitrov/Assignment-1---Cards.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D20A2657C08B53A23360949D47614F8974CD8F4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D20A2657C08B53A23360949D47614F8974CD8F4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Assignment%201%20-%20Cards</string>
+		</dict>
+	</array>
+</dict>
+</plist>
